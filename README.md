@@ -1,7 +1,7 @@
 # Corals-associated-data
 This repository contains all the data and scripts used to produce the main figures of the following article:<br>
 <br>
-High-quality genome assemblies highlight pervasive gene duplication as a major evolutionary driving force in coral biology 
+High-quality genome assemblies highlight pervasive gene duplication as a major evolutionary driving force in coral biology<br> 
 Benjamin Noel, France Denoeud, Alice Rouan, Carol Buitrago-López, Laura Capasso, Julie Poulain, Emilie Boissin, Mélanie Pousse, Corinne Da Silva, Arnaud Couloux, Eric Armstrong, Quentin Carradec, Corinne Cruaud, Karine Labadie, Julie Lê-Hoang, Sylvie Tambutté, Valérie Barbe, Clémentine Moulin, Guillaume Bourdin, Guillaume Iwankow, Sarah Romac, Tara Pacific Consortium Coordinators, Denis Allemand, Serge Planes, Eric Gilson, Didier Zoccola, Patrick Wincker, Christian R Voolstra, Jean-Marc Aury
 <br>
 doi: <br>
