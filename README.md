@@ -7,5 +7,5 @@ Benjamin Noel, France Denoeud, Alice Rouan, Carol Buitrago-López, Laura Capasso
 doi: <br>
 https://www.biorxiv.org/content/<br>
 
-The genome assembly and annotation are freely available at http://www.genoscope.cns.fr/externe/corals<br>
-All the sequencing data are available in the European Nucleotide Archive https://www.ebi.ac.uk/ena/browser/view/PRJEB<br>
+The genome assembly and annotation are freely available at http://www.genoscope.cns.fr/corals<br>
+All the sequencing data are available in the European Nucleotide Archive https://www.ebi.ac.uk/ena/browser/view/PRJEB51539<br>
